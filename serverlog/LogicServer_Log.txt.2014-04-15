@@ -1,0 +1,124 @@
+[INFO ][2014-04-15 11:47:28] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5220be79: startup date [Tue Apr 15 11:47:28 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 11:47:28] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 11:47:30] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@49bdc9d8: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 11:47:30] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 11:47:31] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b8bbb61: startup date [Tue Apr 15 11:47:31 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 11:47:31] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 11:47:31] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4ddf3d59: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 11:47:32] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 11:47:32] 服务器已经已经启动:Tue Apr 15 11:47:32 CST 2014
+[ERROR][2014-04-15 11:47:55]  === you are not login yet
+[ERROR][2014-04-15 11:48:32]  === you are not login yet
+[INFO ][2014-04-15 11:49:40] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@687b6889: startup date [Tue Apr 15 11:49:40 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 11:49:41] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 11:49:41] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4b0ea9ba: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 11:49:41] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 11:49:42] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3fb7edd3: startup date [Tue Apr 15 11:49:42 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 11:49:42] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 11:49:42] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@651e67c: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 11:49:42] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 11:49:42] 服务器已经已经启动:Tue Apr 15 11:49:42 CST 2014
+[INFO ][2014-04-15 11:49:47] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:49:47] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:50:24] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:50:24] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 11:52:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 11:52:43] 创建角色 name = alick
+[INFO ][2014-04-15 14:06:26] Closing org.springframework.context.support.ClassPathXmlApplicationContext@687b6889: startup date [Tue Apr 15 11:49:40 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 14:06:26] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4b0ea9ba: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 14:22:57] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5a5e5a50: startup date [Tue Apr 15 14:22:57 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 14:22:57] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 14:22:58] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@49bdc9d8: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 14:22:58] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 14:22:59] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7adafa2c: startup date [Tue Apr 15 14:22:59 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 14:22:59] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 14:22:59] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7f9360e7: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 14:22:59] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 14:22:59] 服务器已经已经启动:Tue Apr 15 14:22:59 CST 2014
+[INFO ][2014-04-15 14:23:06] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:23:06] 创建角色 name = alick
+[INFO ][2014-04-15 14:28:26] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@687b6889: startup date [Tue Apr 15 14:28:26 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 14:28:26] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 14:28:27] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@69d6065: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 14:28:27] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 14:28:27] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@35c4795e: startup date [Tue Apr 15 14:28:27 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 14:28:27] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 14:28:28] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@19123eb0: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 14:28:28] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 14:28:28] 服务器已经已经启动:Tue Apr 15 14:28:28 CST 2014
+[INFO ][2014-04-15 14:28:35] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:28:35] 创建角色 name = alick
+[INFO ][2014-04-15 14:28:43] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:28:43] 创建角色 name = alick
+[INFO ][2014-04-15 14:28:46] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:28:46] 创建角色 name = alick
+[INFO ][2014-04-15 14:28:50] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:28:50] 创建角色 name = alick
+[INFO ][2014-04-15 14:29:01] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:29:01] 创建角色 name = alick
+[INFO ][2014-04-15 14:29:30] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 14:29:30] 创建角色 name = alick
+[INFO ][2014-04-15 16:52:04] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7e0c2ff5: startup date [Tue Apr 15 16:52:04 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:52:04] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:52:05] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@46238a47: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:52:05] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 16:52:06] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7d1c19e6: startup date [Tue Apr 15 16:52:06 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:52:06] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:52:06] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4f4b2f1a: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:52:15] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@687b6889: startup date [Tue Apr 15 16:52:15 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:52:15] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:52:15] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@46238a47: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:52:16] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 16:52:16] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3e5e9db7: startup date [Tue Apr 15 16:52:16 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:52:16] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:52:16] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7f9480b8: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:52:16] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 16:52:16] 服务器已经已经启动:Tue Apr 15 16:52:16 CST 2014
+[INFO ][2014-04-15 16:52:20] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 16:52:20] 创建角色 name = alick
+[INFO ][2014-04-15 16:52:45] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 16:52:45] 创建角色 name = alick
+[INFO ][2014-04-15 16:54:06] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 16:54:06] 创建角色 name = alick
+[INFO ][2014-04-15 16:54:27] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5a5e5a50: startup date [Tue Apr 15 16:54:27 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:54:27] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:54:27] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2fa918d5: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:54:28] ***************GameWorld 实例化***************
+[INFO ][2014-04-15 16:54:28] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67cec874: startup date [Tue Apr 15 16:54:28 CST 2014]; root of context hierarchy
+[INFO ][2014-04-15 16:54:28] Loading XML bean definitions from class path resource [bean.xml]
+[INFO ][2014-04-15 16:54:28] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5d402eeb: defining beans [userDaoImpl,playerRoleHandler,springExample,accountMange,customBeanFactory,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,gameServer,jedisConnFactory,redisTemplate,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][2014-04-15 16:54:28] 服务器Socket监听启动，端口为: 11000
+[INFO ][2014-04-15 16:54:28] 服务器已经已经启动:Tue Apr 15 16:54:28 CST 2014
+[INFO ][2014-04-15 16:54:34] 有登录 username = alick, password = 123
+[INFO ][2014-04-15 16:54:34] 创建角色 name = alick

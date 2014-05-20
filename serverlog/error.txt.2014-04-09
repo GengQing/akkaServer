@@ -1,0 +1,7 @@
+[ERROR][2014-04-09 18:15:06] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:78) you are not login yet
+[ERROR][2014-04-09 18:23:49] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:78) you are not login yet
+[ERROR][2014-04-09 18:30:47] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:78)  === you are not login yet
+[ERROR][2014-04-09 18:31:28] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:78)  === you are not login yet
+[ERROR][2014-04-09 18:31:57] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:78)  === you are not login yet
+[ERROR][2014-04-09 18:33:00] com.good.akkaserver.handler.PlayerRoleHandler.registerAccount(PlayerRoleHandler.java:39) === register failed
+[ERROR][2014-04-09 18:33:00] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:79)  === you are not login yet

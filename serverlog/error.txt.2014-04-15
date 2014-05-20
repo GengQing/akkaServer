@@ -1,0 +1,2 @@
+[ERROR][2014-04-15 11:47:55] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:85)  === you are not login yet
+[ERROR][2014-04-15 11:48:32] com.good.akkaserver.handler.PlayerRoleHandler.createPlayerRole(PlayerRoleHandler.java:85)  === you are not login yet
